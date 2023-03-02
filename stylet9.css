@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(122, 120, 120);
+}
+
+
+
+#title-page {
+  color: rgb(230, 58, 15);
+  -webkit-text-stroke: 2px rgb(16, 16, 17);
+  font-size: 70px;
+  margin-bottom: 30px;
+}
+
+header {
+  background-color: #f3f3f3;
+  box-shadow: 1px 10px 10px black;
+}
+
+#details {
+  background-color: white;
+  border: 3px solid black;
+  border-radius: 15px;
+}
